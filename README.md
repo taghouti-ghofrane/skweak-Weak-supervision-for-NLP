@@ -4,5 +4,6 @@
    <img alt="skweak logo" src="https://github.com/taghouti-ghofrane/skweak-Weak-supervision-for-NLP/blob/main/data/logo.png"/>
 </p><br>
 
-# Automatic annotation
+# Automatic annotations
+
 
