@@ -19,3 +19,5 @@ for these reasons , practitioners have increasingly been turning to **weak super
 Weak supervision is an emerging machine learning paradigm based on a simple idea: instead of labeling data points by hand, we use labeling functions derived from domain knowledge to automatically obtain annotations for a given dataset.
 
 **skweak**  is a Python-based software toolkit for weak supervision. skweak is built around a very simple idea: I we define a set of **labelling functions** to automatically label our documents, and then **aggregate** their results to obtain a labelled version of our corpus.
+
+# UBIAI Easy to Use Text Annotation Tool
