@@ -28,7 +28,7 @@ You can easily auto-label your data by defining rules, dictionaries, and regular
 
 # The limits of Weak supervision
 
-Based on the project `Job_Description` , we made a comparaison between two modeles.
+Based on the project **Job_Description** , we made a comparaison between two modeles.
 
 * Skweak model evaluation :
 
@@ -38,5 +38,16 @@ EXPERIENCE      100.00   80.00   88.89
 SKILLS           36.00   16.98   23.08
 DIPLOMA         100.00   33.33   50.00
 DIPLOMA_MAJOR   100.00   75.00   85.71
+```
+
+* UBIAI model evalution :
+
+```
+
+                     P        R        F
+EXPERIENCE      100.00   100.00   100.00
+SKILLS           67.24    73.58    70.27
+DIPLOMA         100.00   100.00   100.00
+DIPLOMA_MAJOR   100.00   100.00   100.00
 ```
 
