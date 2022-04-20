@@ -33,22 +33,23 @@ Based on the project **Job_Description** , we made a comparaison between two mod
 * Skweak model evaluation :
 
 ```
-                    P       R       F
-EXPERIENCE      100.00   80.00   88.89
-SKILLS           36.00   16.98   23.08
-DIPLOMA         100.00   33.33   50.00
-DIPLOMA_MAJOR   100.00   75.00   85.71
+                     P       R       F
+DIPLOMA         100.00   11.11   20.00
+DIPLOMA_MAJOR    50.00   33.33   40.00
+EXPERIENCE      100.00   27.27   42.86
+SKILLS           31.46   16.97   22.05
+
 ```
 
 * UBIAI model evalution :
 
 ```
 
-                     P        R        F
-EXPERIENCE      100.00   100.00   100.00
-SKILLS           67.24    73.58    70.27
-DIPLOMA         100.00   100.00   100.00
-DIPLOMA_MAJOR   100.00   100.00   100.00
+                    P       R       F
+DIPLOMA         85.71   66.67   75.00
+DIPLOMA_MAJOR   33.33   16.67   22.22
+EXPERIENCE      81.82   81.82   81.82
+SKILLS          74.05   83.03   78.29
 ```
 
 *
